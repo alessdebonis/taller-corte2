@@ -1,0 +1,3 @@
+Copia de los encabezados de Eigen 3.4.0 (https://eigen.tuxfamily.org).
+Se incluye para que el proyecto compile en cualquier sistema operativo
+aunque Eigen no este instalado. Licencia: MPL 2.0 (ver COPYING.MPL2).
