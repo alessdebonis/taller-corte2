@@ -66,7 +66,7 @@ sudo apt install build-essential cmake libeigen3-dev
 Opción A, con Git:
 
 ```bash
-git clone https://github.com/USUARIO/taller-corte2.git
+git clone https://github.com/alessdebonis/taller-corte2.git
 cd taller-corte2
 ```
 
